@@ -1,3 +1,3 @@
 # trial_repo
 This is just a testing repo <br>
-Author - Harshit Gupta
+Author - Harshit Gupta (Developer)
